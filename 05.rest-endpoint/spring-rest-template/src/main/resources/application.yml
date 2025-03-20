@@ -1,0 +1,6 @@
+server:
+  port: 5001
+
+name:
+  service:
+    url: "http://localhost:5001"
