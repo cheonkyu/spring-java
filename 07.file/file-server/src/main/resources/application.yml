@@ -1,0 +1,9 @@
+server:
+  port: 5001
+
+# spring 파일 크기 지정
+spring:
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
